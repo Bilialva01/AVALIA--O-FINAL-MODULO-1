@@ -14,7 +14,7 @@ body{
 .fundo-imagem {
     position: relative;
     background-color: #ff6600;
-    height: 800px;
+    height: 1000px;
     width: 400px;
     padding-left: 80px;
 }
@@ -22,7 +22,7 @@ body{
 .info {
     position: absolute;
     text-align: center;
-    top: 10%;
+    top: 20%;
     font-size: 25px;
 }
 
@@ -30,8 +30,8 @@ body{
     position: relative;
     justify-content: left;
     height: 0px;
-    bottom: 500px;
-    padding-left: 500px;
+    bottom: 600px;
+    padding-left: 550px;
     width: 100vw;
     color: rgb(59, 59, 59);
 }
@@ -45,7 +45,7 @@ body{
 
 a {
     text-decoration: none;
-    color: rgb(245, 177, 114);
+    color: rgb(247, 183, 124);
     padding: 10px;
     font-weight: bold;
 }
@@ -64,7 +64,7 @@ a:hover{
 }
 
 .texto-span {
-    color: #ad4500;
+    color: rgb(247, 183, 124);
 }
 
 .descricao {
@@ -77,7 +77,7 @@ a:hover{
     position: relative;
     justify-content: left;
     height: 0px;
-    bottom: 500px;
+    bottom: 600px;
     padding-left: 600px;
     width: 100vw;
     font-size: 20px;
@@ -88,15 +88,15 @@ a:hover{
     position: relative;
     justify-content: left;
     height: 0px;
-    bottom: 500px;
+    bottom: 600px;
     padding-left: 600px;
     width: 100vw;
     font-size: 30px;
-    color: rgb(59, 59, 59);    
+    color: rgb(46, 46, 46);    
     font-weight: bold;
 }
 
 .sobrenome {
-    color: #ad4500;
+    color:rgb(247, 183, 124);
 }
 
